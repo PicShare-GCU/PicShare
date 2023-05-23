@@ -23,7 +23,7 @@
             android:id="@+id/picshare_logo"
             android:layout_width="300dp"
             android:layout_height="150dp"
-            android:src="@drawable/picshare2"
+            android:src="@drawable/picshare_final"
             android:layout_centerHorizontal="true"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
